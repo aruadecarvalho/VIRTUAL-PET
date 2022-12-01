@@ -7,6 +7,11 @@
 html {
   font-size: 62.5%;
 }
+@media (max-width: 600px) {
+  html {
+    font-size: 56.25%;
+  }
+}
 
 body {
   font-family: "Indie Flower", cursive, sans-serif;

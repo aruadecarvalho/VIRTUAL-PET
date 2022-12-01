@@ -1,7 +1,7 @@
 import { useState } from "react";
 import LoginForm from "../LoginForm/LoginForm";
 import RegisterForm from "../RegisterForm/RegisterForm";
-import KiwiImg from "../../assets/imgs/kiwi1.jpg";
+import KiwiImg from "../../assets/imgs/kiwi1.png";
 import axios from "axios";
 import { storeToken } from "../../utils/utils";
 import {
